@@ -76,7 +76,7 @@
   Student-alumni engagement platform with user authentication and dashboards.
 
 - 🔊 **Text-to-Speech Converter**  
-  JS-based tool with multiple accent support – [Live Demo](https://mdthejaswini123.github.io/)
+  JS-based tool with multiple accent support – [Live Demo](https://mdthejaswini123.github.io/Text-to-Speech-Converter/)
 
 ---
 
