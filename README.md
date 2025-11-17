@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Thejaswini MD</h1>
 
 <p align="center">
-  🎓 CSE Graduate | ⚛️ React Developer | 🔐 Cybersecurity Learner<br/>
+  🎓 CSE Graduate | ⚛️ React Developer | Spring boot Learner<br/>
   📍 Malnad College of Engineering, Hassan | CGPA: 9.29
 </p>
 
@@ -9,7 +9,7 @@
 
 ### 💫 About Me
 
-- 🔭 I’m currently a **Software Development Intern** at **Silo Fortune**
+- 🔭 I’m currently a **Software Engineer** at **Silo Fortune**
 - 💻 Ex-Cybersecurity Intern at **Employability.life** – Malware Analysis
 - 🌱 Learning **Advanced ReactJS**, **React Native**, and **System Design**
 - 📚 Actively solving problems to strengthen my **Data Structures & Algorithms (DSA)**
@@ -47,7 +47,7 @@
 
 - 💡 Strengthening **Data Structures & Algorithms (DSA)** – solving problems daily  
 - 🚀 Exploring **React Ecosystem** deeper – Hooks, Context API, and performance optimizations  
-- 📚 Diving into **System Design** and **Backend Concepts**
+- 📚 Diving into **System Design** and **Spring boot Backend **
 
 ---
 
