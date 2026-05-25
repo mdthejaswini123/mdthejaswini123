@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 CSE Graduate | ⚛️ React Developer | Spring boot Learner<br/>
-  📍 Malnad College of Engineering, Hassan | CGPA: 9.29
+  📍 Malnad College of Engineering, Hassan | CGPA: 9.27
 </p>
 
 ---
